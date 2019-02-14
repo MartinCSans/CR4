@@ -1,3 +1,2 @@
 #!/bin/sh
-
 python3 CR4.py
